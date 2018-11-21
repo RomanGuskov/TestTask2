@@ -1,0 +1,4 @@
+﻿  TestTask2.cpp
+c:\users\groma\documents\visual studio 2015\projects\testtask2\testtask2\testtask2.cpp(17): warning C4715: FIND: значение возвращается не при всех путях выполнения
+  TestTask2.vcxproj -> c:\users\groma\documents\visual studio 2015\Projects\TestTask2\Debug\TestTask2.exe
+  TestTask2.vcxproj -> c:\users\groma\documents\visual studio 2015\Projects\TestTask2\Debug\TestTask2.pdb (Full PDB)
